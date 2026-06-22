@@ -1,0 +1,48 @@
+# Linux IT Support Lab Portfolio
+
+## Project Overview
+
+Designed and implemented hands-on Linux support environment using VirtualBox to simulate real-world Technical Support Engineer responsibilities.
+The projects focused on user administration, system troubleshooting, service management, networking, incident handling, and technical documentation.
+
+---
+
+## Linux IT Support Lab
+
+### Environment
+
+* Ubuntu Server 26.04 LTS
+* VirtualBox
+* Apache Web Server
+* MariaDB Database
+* PHP
+
+### Activities Performed
+
+* Installed and configured Ubuntu Server.
+* Created and managed Linux user accounts.
+* Performed password reset, account lock, and account unlock operations.
+* Configured and verified SSH service.
+* Installed and managed Apache web server.
+* Installed and configured MariaDB database.
+* Installed and verified PHP functionality.
+* Diagnosed and resolved virtual machine networking issues.
+* Performed system health checks including disk, memory, and log analysis.
+* Created incident tickets and troubleshooting documentation.
+
+### Skills Demonstrated
+
+* Linux Administration
+* User Management
+* Service Management
+* Network Troubleshooting
+* Web Server Administration
+* Database Administration
+* Incident Documentation
+
+---
+
+## Outcome
+
+Successfully built and administered Linux support environment that simulate common Technical Support Engineer tasks, including user management,
+troubleshooting, network diagnostics, service recovery, incident handling, and system administration.
