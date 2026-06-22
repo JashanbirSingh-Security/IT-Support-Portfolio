@@ -1,0 +1,56 @@
+# Windows Technical Support Lab
+
+## Project Overview
+
+Designed and implemented hands-on Windows environment using VirtualBox to simulate real-world Technical Support Engineer responsibilities. The projects focused on user administration, system troubleshooting, service management, networking, incident handling, and technical documentation.
+
+---
+
+### Environment
+
+* Windows 11 Pro
+* VirtualBox
+
+### Activities Performed
+
+* Created and managed local user accounts.
+* Performed password reset procedures.
+* Disabled and re-enabled user accounts.
+* Investigated Windows logs using Event Viewer.
+* Troubleshot Windows services including Print Spooler.
+* Performed network diagnostics using ipconfig, ping, and nslookup.
+* Verified internet connectivity and DNS resolution.
+* Simulated support incidents and documented resolutions.
+
+### Skills Demonstrated
+
+* Windows Administration
+* Account Management
+* Password Management
+* Event Viewer Analysis
+* Service Troubleshooting
+* Network Diagnostics
+* Incident Handling
+
+---
+
+## Key Technical Skills Acquired
+
+* Windows 11 Administration
+* Ubuntu Linux Administration
+* User and Access Management
+* Password Reset Procedures
+* Apache Web Server Administration
+* MariaDB Database Management
+* SSH Configuration
+* Service Monitoring and Troubleshooting
+* Event Viewer Investigation
+* DNS and Network Troubleshooting
+* Technical Documentation
+* Incident Management
+
+---
+
+## Outcome
+
+Successfully built and administered Windows environment that simulate common Technical Support Engineer tasks, including user management, troubleshooting, network diagnostics, service recovery, incident handling, and system administration.
